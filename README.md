@@ -1,4 +1,4 @@
-#bible scraper forked from 
+# bible scraper forked from 
 node-web-scraper
 ================
 
