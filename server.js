@@ -29,70 +29,81 @@ var chapters = _.map(books, function(b, ib) {
   return urls;
 });
 var output = [];
-console.log(chapters);
-async.eachSeries(chapters[0],
-  function(chapter, cbChapter) {
-    var wrapper = {};
-    var book = '';
-    async.eachSeries(chapter, function(version, cbVersion) {
-      request(version, function(error, response, html){
-        if(!error){
-          var $, _book, _chapter, _url;
-          $ = cheerio.load(html);
-          _url = url.parse(version, true);
-          _book = _url.query['search'].split(' ')[0];
-          _chapter = _url.query['search'].split(' ')[1];
-          
-          if(!wrapper[version]) wrapper[version] = [];
-          if(_book) wrapper[version].push(`# ${_book}`);
-          if(_chapter) wrapper[version].push(`## ${_chapter}`);
-          $('.text').each(function(i,v) {
-            var $el, actionBlock, actionTrue, hasNum, num, text;
+var toWrite = [];
+async.eachSeries(chapters, (chap, cbFinal) => {
+  async.eachSeries(chap,
+    function(chapter, cbChapter) {
+      var wrapper = {};
+      var book = '';
+      async.eachSeries(chapter, function(version, cbVersion) {
+        request(version, function(error, response, html){
+          if(!error){
+            var $, _book, _chapter, _url;
+            $ = cheerio.load(html);
+            _url = url.parse(version, true);
+            _book = _url.query['search'].split(' ')[0];
+            _chapter = _url.query['search'].split(' ')[1];
+            
+            if(!wrapper[version]) wrapper[version] = [];
+            if(_book) wrapper[version].push(`# ${_book}`);
+            if(_chapter) wrapper[version].push(`## ${_chapter}`);
+            $('.text').each(function(i,v) {
+              var $el, actionBlock, actionTrue, hasNum, num, text;
 
-            $el = $(v);
-            text = $el.text();
-            num = text.substr(0,1);
-            num = parseInt(num);
-            hasNum = !_.isNaN(num);
-            actionTrue = function() {
-              wrapper[version].push(text);
-            };
-            actionBlock = {
-              'true': actionTrue,
-              'false': function() { 
-                var lastV = _.last(wrapper.verses);
-                lastV? lastV.text += text : actionTrue();
-              }
-            }[hasNum.toString()]()
-          });
-//          console.log(wrapper);
-          cbVersion();
-        } else {
-          cbVersion();
-        }
-      })
+              $el = $(v);
+              text = $el.text();
+              num = text.substr(0,1);
+              num = parseInt(num);
+              hasNum = !_.isNaN(num);
+              actionTrue = function() {
+                wrapper[version].push(text);
+              };
+              actionBlock = {
+                'true': actionTrue,
+                'false': function() { 
+                  var lastV = _.last(wrapper.verses);
+                  lastV? lastV.text += text : actionTrue();
+                }
+              }[hasNum.toString()]()
+            });
+            cbVersion();
+          } else {
+            cbVersion();
+          }
+        })
+      },
+      function(err) {
+        output.push(wrapper);
+
+        cbChapter(); 
+      }
+      )
     },
     function(err) {
-      output.push(wrapper);
-      cbChapter(); 
+  //      output = _.omit(output[0], 'chapter');
+      _.each(output, function(op, opi) {
+         console.log(op);
+          var finalVerses = [];
+          var allVerseKeys = _.keys(op);
+          console.log(allVerseKeys);
+          _.chain(op).values().first().each((v,i) => {
+            _.each(allVerseKeys, (vk, vki) => {
+              finalVerses.push(op[vk][i]);
+            });
+          }).value();
+          toWrite.push(finalVerses.join('\n'));
+          console.log(`verses added: ${finalVerses.length}`)
+      });
+      cbFinal();
     }
-    )
-  },
-  function(err) {
-//      output = _.omit(output[0], 'chapter');
-      var finalVerses = [];
-      var allVerseKeys = _.keys(output[0]);
-      _.chain(output[0]).values().first().each((v,i) => {
-        _.each(allVerseKeys, (vk, vki) => {
-          finalVerses.push(output[0][vk][i]);
-        });
-      }).value();
-      fs.writeFile('book.md', finalVerses.join('\n'), function(err){
+  )
+},
+(err) => {
+      fs.writeFile('book.md', toWrite.join('\n'), function(err){
         console.log('File successfully written! - Check your project directory for the output.json file');
       })
+});
 
-  }
-);
 app.get('/scrape', function(req, res){
   // Let's scrape Anchorman 2
 /*
