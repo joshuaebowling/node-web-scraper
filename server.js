@@ -91,7 +91,7 @@ async.eachSeries(chapters, (chap, cbFinal) => {
               finalVerses.push(op[vk][i]);
             });
           }).value();
-          toWrite.push(finalVerses.join('\n'));
+          toWrite.push(finalVerses.join('  \n'));
           console.log(`verses added: ${finalVerses.length}`)
       });
       cbFinal();
@@ -99,7 +99,7 @@ async.eachSeries(chapters, (chap, cbFinal) => {
   )
 },
 (err) => {
-      fs.writeFile('book.md', toWrite.join('\n'), function(err){
+      fs.writeFile('book.md', toWrite.join('  \n'), function(err){
         console.log('File successfully written! - Check your project directory for the output.json file');
       })
 });
