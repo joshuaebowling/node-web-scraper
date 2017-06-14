@@ -48,23 +48,21 @@ async.eachSeries(chapters, (chap, cbFinal) => {
             if(_book) wrapper[version].push(`# ${_book}`);
             if(_chapter) wrapper[version].push(`## ${_chapter}`);
             $('.text').each(function(i,v) {
-              var $el, actionBlock, actionTrue, hasNum, num, text;
+              var $el, actionBlock, actionTrue, isVerse, text;
 
               $el = $(v);
               text = $el.text();
-              num = text.substr(0,1);
-              num = parseInt(num);
-              hasNum = !_.isNaN(num);
+              isVerse = !_.isNaN(parseInt(text.substr(0, _.indexOf(text,' '))));
               actionTrue = function() {
-                wrapper[version].push(text);
+                if(isVerse) wrapper[version].push(text);
               };
               actionBlock = {
                 'true': actionTrue,
                 'false': function() { 
-                  var lastV = _.last(wrapper.verses);
-                  lastV? lastV.text += text : actionTrue();
+//                  var lastV = _.last(wrapper.verses);
+//                  lastV? lastV.text += text : actionTrue();
                 }
-              }[hasNum.toString()]()
+              }[isVerse.toString()]()
             });
             cbVersion();
           } else {
