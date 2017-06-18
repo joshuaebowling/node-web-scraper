@@ -48,21 +48,23 @@ async.eachSeries(chapters, (chap, cbFinal) => {
             if(_book) wrapper[version].push(`# ${_book}`);
             if(_chapter) wrapper[version].push(`## ${_chapter}`);
             $('.text').each(function(i,v) {
-              var $el, actionBlock, actionTrue, isVerse, text;
+              var $el, action, actionBlock, actionTrue, isAppend, isVerse, text;
 
               $el = $(v);
               text = $el.text();
               isVerse = !_.isNaN(parseInt(text.substr(0, _.indexOf(text,' '))));
+              isAppend = _.startsWith(text, '―');
+              action = isVerse ? 'add' : isAppend ? 'append' : 'nothing';
               actionTrue = function() {
                 if(isVerse) wrapper[version].push(text);
               };
               actionBlock = {
-                'true': actionTrue,
-                'false': function() { 
-//                  var lastV = _.last(wrapper.verses);
-//                  lastV? lastV.text += text : actionTrue();
-                }
-              }[isVerse.toString()]()
+                'add': actionTrue,
+                'append': function() {
+                    wrapper[version][wrapper[version].length - 1] = [wrapper[version][wrapper[version].length - 1], text].join(' ');
+                },
+                'nothing':_.noop
+              }[action]()
             });
             cbVersion();
           } else {
@@ -101,16 +103,16 @@ async.eachSeries(chapters, (chap, cbFinal) => {
         console.log('File successfully written! - Check your project directory for the output.json file');
       })
 });
-
+/*
 app.get('/scrape', function(req, res){
   // Let's scrape Anchorman 2
-/*
+
   async.eachSeries(versions, function(version, callbackV) {
   })
   }, function(err, result) {
       // if result is true then every file exists
   });
-*/
+
   var url = 'https://www.biblegateway.com/passage/?search=Mark+1&version=NVI';
   res.send('Check your console!')
 
@@ -118,4 +120,5 @@ app.get('/scrape', function(req, res){
 
 app.listen('8081')
 console.log('Magic happens on port 8081');
+*/
 exports = module.exports = app;
