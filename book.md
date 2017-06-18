@@ -75,15 +75,15 @@
 36 And Simon and those who were with him searched for him,  
 36 Simón y sus compañeros salieron a buscarlo.  
 37 and they found him and said to him, “Everyone is looking for you.”  
-37 Por fin lo encontraron y le dijeron:  
+37 Por fin lo encontraron y le dijeron: ―Todo el mundo te busca.  
 38 And he said to them, “Let us go on to the next towns, that I may preach there also, for that is why I came out.”  
-38 Jesús respondió:  
+38 Jesús respondió: ―Vámonos de aquí a otras aldeas cercanas donde también pueda predicar; para esto he venido.  
 39 And he went throughout all Galilee, preaching in their synagogues and casting out demons.  
 39 Así que recorrió toda Galilea, predicando en las sinagogas y expulsando demonios.  
 40 And a leper[h] came to him, imploring him, and kneeling said to him, “If you will, you can make me clean.”  
-40 Un hombre que tenía lepra se le acercó, y de rodillas le suplicó:  
+40 Un hombre que tenía lepra se le acercó, y de rodillas le suplicó: ―Si quieres, puedes limpiarme.  
 41 Moved with pity, he stretched out his hand and touched him and said to him, “I will; be clean.”  
-41 Movido a compasión, Jesús extendió la mano y tocó al hombre, diciéndole:  
+41 Movido a compasión, Jesús extendió la mano y tocó al hombre, diciéndole: ―Sí, quiero. ¡Queda limpio!  
 42 And immediately the leprosy left him, and he was made clean.  
 42 Al instante se le quitó la lepra y quedó sano.[e]   
 43 And Jesus[i] sternly charged him and sent him away at once,  
@@ -105,13 +105,13 @@
 4 And when they could not get near him because of the crowd, they removed the roof above him, and when they had made an opening, they let down the bed on which the paralytic lay.  
 4 Como no podían acercarlo a Jesús por causa de la multitud, quitaron parte del techo encima de donde estaba Jesús y, luego de hacer una abertura, bajaron la camilla en la que estaba acostado el paralítico.   
 5 And when Jesus saw their faith, he said to the paralytic, “Son, your sins are forgiven.”  
-5 Al ver Jesús la fe de ellos, le dijo al paralítico:  
+5 Al ver Jesús la fe de ellos, le dijo al paralítico: ―Hijo, tus pecados quedan perdonados.  
 6 Now some of the scribes were sitting there, questioning in their hearts,  
 6 Estaban sentados allí algunos maestros de la ley, que pensaban:   
 7 “Why does this man speak like that? He is blaspheming! Who can forgive sins but God alone?”  
 7 «¿Por qué habla este así? ¡Está blasfemando! ¿Quién puede perdonar pecados sino solo Dios?»  
 8 And immediately Jesus, perceiving in his spirit that they thus questioned within themselves, said to them, “Why do you question these things in your hearts?  
-8 En ese mismo instante supo Jesús en su espíritu que esto era lo que estaban pensando.  
+8 En ese mismo instante supo Jesús en su espíritu que esto era lo que estaban pensando. ―¿Por qué razonan así? —les dijo—.   
 9 Which is easier, to say to the paralytic, ‘Your sins are forgiven,’ or to say, ‘Rise, take up your bed and walk’?  
 9 ¿Qué es más fácil, decirle al paralítico: “Tus pecados son perdonados”, o decirle: “Levántate, toma tu camilla y anda”?   
 10 But that you may know that the Son of Man has authority on earth to forgive sins”—he said to the paralytic—  
@@ -119,21 +119,21 @@
 11 “I say to you, rise, pick up your bed, and go home.”  
 11 A ti te digo, levántate, toma tu camilla y vete a tu casa.  
 12 And he rose and immediately picked up his bed and went out before them all, so that they were all amazed and glorified God, saying, “We never saw anything like this!”  
-12 Él se levantó, tomó su camilla en seguida y salió caminando a la vista de todos. Ellos se quedaron asombrados y comenzaron a alabar a Dios.  
+12 Él se levantó, tomó su camilla en seguida y salió caminando a la vista de todos. Ellos se quedaron asombrados y comenzaron a alabar a Dios. ―Jamás habíamos visto cosa igual —decían.  
 13 He went out again beside the sea, and all the crowd was coming to him, and he was teaching them.  
 13 De nuevo salió Jesús a la orilla del lago. Toda la gente acudía a él, y él les enseñaba.   
 14 And as he passed by, he saw Levi the son of Alphaeus sitting at the tax booth, and he said to him, “Follow me.” And he rose and followed him.  
-14 Al pasar vio a Leví hijo de Alfeo, donde este cobraba impuestos.  
+14 Al pasar vio a Leví hijo de Alfeo, donde este cobraba impuestos. ―Sígueme —le dijo Jesús.  
 15 And as he reclined at table in his house, many tax collectors and sinners were reclining with Jesus and his disciples, for there were many who followed him.  
 15 Sucedió que, estando Jesús a la mesa en casa de Leví, muchos recaudadores de impuestos y pecadores se sentaron con él y sus discípulos, pues ya eran muchos los que lo seguían.   
 16 And the scribes of[a] the Pharisees, when they saw that he was eating with sinners and tax collectors, said to his disciples, “Why does he eat[b] with tax collectors and sinners?”  
-16 Cuando los maestros de la ley que eran fariseos vieron con quién comía, les preguntaron a sus discípulos:  
+16 Cuando los maestros de la ley que eran fariseos vieron con quién comía, les preguntaron a sus discípulos: ―¿Y este come con recaudadores de impuestos y con pecadores?  
 17 And when Jesus heard it, he said to them, “Those who are well have no need of a physician, but those who are sick. I came not to call the righteous, but sinners.”  
-17 Al oírlos, Jesús les contestó:  
+17 Al oírlos, Jesús les contestó: ―No son los sanos los que necesitan médico, sino los enfermos. Y yo no he venido a llamar a justos, sino a pecadores.  
 18 Now John's disciples and the Pharisees were fasting. And people came and said to him, “Why do John's disciples and the disciples of the Pharisees fast, but your disciples do not fast?”  
-18 Al ver que los discípulos de Juan y los fariseos ayunaban, algunos se acercaron a Jesús y le preguntaron:  
+18 Al ver que los discípulos de Juan y los fariseos ayunaban, algunos se acercaron a Jesús y le preguntaron: ―¿Cómo es que los discípulos de Juan y de los fariseos ayunan, pero los tuyos no?  
 19 And Jesus said to them, “Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast.  
-19 Jesús les contestó:  
+19 Jesús les contestó: ―¿Acaso pueden ayunar los invitados del novio mientras él está con ellos? No pueden hacerlo mientras lo tienen con ellos.   
 20 The days will come when the bridegroom is taken away from them, and then they will fast in that day.  
 20 Pero llegará el día en que se les quitará el novio, y ese día sí ayunarán.   
 21 No one sews a piece of unshrunk cloth on an old garment. If he does, the patch tears away from it, the new from the old, and a worse tear is made.  
@@ -145,7 +145,7 @@
 24 And the Pharisees were saying to him, “Look, why are they doing what is not lawful on the Sabbath?”  
 24 ―Mira —le preguntaron los fariseos—, ¿por qué hacen ellos lo que está prohibido hacer en sábado?  
 25 And he said to them, “Have you never read what David did, when he was in need and was hungry, he and those who were with him:  
-25 Él les contestó:  
+25 Él les contestó: ―¿Nunca han leído lo que hizo David en aquella ocasión, cuando él y sus compañeros tuvieron hambre y pasaron necesidad?   
 26 how he entered the house of God, in the time of[d] Abiathar the high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?”  
 26 Entró en la casa de Dios cuando Abiatar era el sumo sacerdote, y comió los panes consagrados a Dios, que solo a los sacerdotes les es permitido comer. Y dio también a sus compañeros.  
 27 And he said to them, “The Sabbath was made for man, not man for the Sabbath.  
@@ -161,11 +161,11 @@
 2 And they watched Jesus,[a] to see whether he would heal him on the Sabbath, so that they might accuse him.  
 2 Algunos que buscaban un motivo para acusar a Jesús no le quitaban la vista de encima para ver si sanaba al enfermo en sábado.   
 3 And he said to the man with the withered hand, “Come here.”  
-3 Entonces Jesús le dijo al hombre de la mano paralizada:  
+3 Entonces Jesús le dijo al hombre de la mano paralizada: ―Ponte de pie frente a todos.  
 4 And he said to them, “Is it lawful on the Sabbath to do good or to do harm, to save life or to kill?” But they were silent.  
-4 Luego dijo a los otros:  
+4 Luego dijo a los otros: ―¿Qué está permitido en sábado: hacer el bien o hacer el mal, salvar una vida o matar?  
 5 And he looked around at them with anger, grieved at their hardness of heart, and said to the man, “Stretch out your hand.” He stretched it out, and his hand was restored.  
-5 Jesús se les quedó mirando, enojado y entristecido por la dureza de su corazón, y le dijo al hombre:  
+5 Jesús se les quedó mirando, enojado y entristecido por la dureza de su corazón, y le dijo al hombre: ―Extiende la mano.  
 6 The Pharisees went out and immediately held counsel with the Herodians against him, how to destroy him.  
 6 Tan pronto como salieron los fariseos, comenzaron a tramar con los herodianos cómo matar a Jesús.  
 7 Jesus withdrew with his disciples to the sea, and a great crowd followed, from Galilee and Judea  
@@ -219,11 +219,11 @@
 31 And his mother and his brothers came, and standing outside they sent to him and called him.  
 31 En eso llegaron la madre y los hermanos de Jesús. Se quedaron afuera y enviaron a alguien a llamarlo,   
 32 And a crowd was sitting around him, and they said to him, “Your mother and your brothers[c] are outside, seeking you.”  
-32 pues había mucha gente sentada alrededor de él.  
+32 pues había mucha gente sentada alrededor de él. ―Mira, tu madre y tus hermanos[b] están afuera y te buscan —le dijeron.  
 33 And he answered them, “Who are my mother and my brothers?”  
 33 ―¿Quiénes son mi madre y mis hermanos? —replicó Jesús.  
 34 And looking about at those who sat around him, he said, “Here are my mother and my brothers!  
-34 Luego echó una mirada a los que estaban sentados alrededor de él y añadió:  
+34 Luego echó una mirada a los que estaban sentados alrededor de él y añadió: ―Aquí tienen a mi madre y a mis hermanos.   
 35 For whoever does the will of God, he is my brother and sister and mother.”  
 35 Cualquiera que hace la voluntad de Dios es mi hermano, mi hermana y mi madre.  
 # Mark  
@@ -299,19 +299,19 @@
 34 He did not speak to them without a parable, but privately to his own disciples he explained everything.  
 34 No les decía nada sin emplear parábolas. Pero, cuando estaba a solas con sus discípulos, les explicaba todo.  
 35 On that day, when evening had come, he said to them, “Let us go across to the other side.”  
-35 Ese día al anochecer, les dijo a sus discípulos:  
+35 Ese día al anochecer, les dijo a sus discípulos: ―Crucemos al otro lado.  
 36 And leaving the crowd, they took him with them in the boat, just as he was. And other boats were with him.  
 36 Dejaron a la multitud y se fueron con él en la barca donde estaba. También lo acompañaban otras barcas.   
 37 And a great windstorm arose, and the waves were breaking into the boat, so that the boat was already filling.  
 37 Se desató entonces una fuerte tormenta, y las olas azotaban la barca, tanto que ya comenzaba a inundarse.   
 38 But he was in the stern, asleep on the cushion. And they woke him and said to him, “Teacher, do you not care that we are perishing?”  
-38 Jesús, mientras tanto, estaba en la popa, durmiendo sobre un cabezal, así que los discípulos lo despertaron.  
+38 Jesús, mientras tanto, estaba en la popa, durmiendo sobre un cabezal, así que los discípulos lo despertaron. ―¡Maestro! —gritaron—, ¿no te importa que nos ahoguemos?  
 39 And he awoke and rebuked the wind and said to the sea, “Peace! Be still!” And the wind ceased, and there was a great calm.  
-39 Él se levantó, reprendió al viento y ordenó al mar:  
+39 Él se levantó, reprendió al viento y ordenó al mar: ―¡Silencio! ¡Cálmate!  
 40 He said to them, “Why are you so afraid? Have you still no faith?”  
 40 ―¿Por qué tienen tanto miedo? —dijo a sus discípulos—. ¿Todavía[b] no tienen fe?  
 41 And they were filled with great fear and said to one another, “Who then is this, that even the wind and the sea obey him?”  
-41 Ellos estaban espantados y se decían unos a otros:  
+41 Ellos estaban espantados y se decían unos a otros: ―¿Quién es este, que hasta el viento y el mar le obedecen?  
 # Mark  
 # Mark  
 ## 5  
@@ -333,7 +333,7 @@
 8 For he was saying to him, “Come out of the man, you unclean spirit!”  
 8 Es que Jesús le había dicho: «¡Sal de este hombre, espíritu maligno!»  
 9 And Jesus asked him, “What is your name?” He replied, “My name is Legion, for we are many.”  
-9 ―¿Cómo te llamas? —le preguntó Jesús.  
+9 ―¿Cómo te llamas? —le preguntó Jesús. ―Me llamo Legión —respondió—, porque somos muchos.  
 10 And he begged him earnestly not to send them out of the country.  
 10 Y con insistencia le suplicaba a Jesús que no los expulsara de aquella región.  
 11 Now a great herd of pigs was feeding there on the hillside,  
@@ -353,7 +353,7 @@
 18 As he was getting into the boat, the man who had been possessed with demons begged him that he might be with him.  
 18 Mientras subía Jesús a la barca, el que había estado endemoniado le rogaba que le permitiera acompañarlo.   
 19 And he did not permit him but said to him, “Go home to your friends and tell them how much the Lord has done for you, and how he has had mercy on you.”  
-19 Jesús no se lo permitió, sino que le dijo:  
+19 Jesús no se lo permitió, sino que le dijo: ―Vete a tu casa, a los de tu familia, y diles todo lo que el Señor ha hecho por ti y cómo te ha tenido compasión.  
 20 And he went away and began to proclaim in the Decapolis how much Jesus had done for him, and everyone marveled.  
 20 Así que el hombre se fue y se puso a proclamar en Decápolis lo mucho que Jesús había hecho por él. Y toda la gente se quedó asombrada.  
 21 And when Jesus had crossed again in the boat to the other side, a great crowd gathered about him, and he was beside the sea.  
@@ -361,7 +361,7 @@
 22 Then came one of the rulers of the synagogue, Jairus by name, and seeing him, he fell at his feet  
 22 Llegó entonces uno de los jefes de la sinagoga, llamado Jairo. Al ver a Jesús, se arrojó a sus pies,   
 23 and implored him earnestly, saying, “My little daughter is at the point of death. Come and lay your hands on her, so that she may be made well and live.”  
-23 suplicándole con insistencia:  
+23 suplicándole con insistencia: ―Mi hijita se está muriendo. Ven y pon tus manos sobre ella para que se sane y viva.  
 24 And he went with him.  
 24 Jesús se fue con él, y lo seguía una gran multitud, la cual lo apretujaba.   
 25 And there was a woman who had had a discharge of blood for twelve years,  
@@ -375,7 +375,7 @@
 29 And immediately the flow of blood dried up, and she felt in her body that she was healed of her disease.  
 29 Al instante cesó su hemorragia, y se dio cuenta de que su cuerpo había quedado libre de esa aflicción.  
 30 And Jesus, perceiving in himself that power had gone out from him, immediately turned about in the crowd and said, “Who touched my garments?”  
-30 Al momento también Jesús se dio cuenta de que de él había salido poder, así que se volvió hacia la gente y preguntó:  
+30 Al momento también Jesús se dio cuenta de que de él había salido poder, así que se volvió hacia la gente y preguntó: ―¿Quién me ha tocado la ropa?  
 31 And his disciples said to him, “You see the crowd pressing around you, and yet you say, ‘Who touched me?’”  
 31 ―Ves que te apretuja la gente —le contestaron sus discípulos—, y aun así preguntas: “¿Quién me ha tocado?”  
 32 And he looked around to see who had done it.  
@@ -385,19 +385,19 @@
 34 And he said to her, “Daughter, your faith has made you well; go in peace, and be healed of your disease.”  
 34 ―¡Hija, tu fe te ha sanado! —le dijo Jesús—. Vete en paz y queda sana de tu aflicción.  
 35 While he was still speaking, there came from the ruler's house some who said, “Your daughter is dead. Why trouble the Teacher any further?”  
-35 Todavía estaba hablando Jesús cuando llegaron unos hombres de la casa de Jairo, jefe de la sinagoga, para decirle:  
+35 Todavía estaba hablando Jesús cuando llegaron unos hombres de la casa de Jairo, jefe de la sinagoga, para decirle: ―Tu hija ha muerto. ¿Para qué sigues molestando al Maestro?  
 36 But overhearing[e] what they said, Jesus said to the ruler of the synagogue, “Do not fear, only believe.”  
-36 Sin hacer caso de la noticia, Jesús le dijo al jefe de la sinagoga:  
+36 Sin hacer caso de la noticia, Jesús le dijo al jefe de la sinagoga: ―No tengas miedo; cree nada más.  
 37 And he allowed no one to follow him except Peter and James and John the brother of James.  
 37 No dejó que nadie lo acompañara, excepto Pedro, Jacobo y Juan, el hermano de Jacobo.   
 38 They came to the house of the ruler of the synagogue, and Jesus[f] saw a commotion, people weeping and wailing loudly.  
 38 Cuando llegaron a la casa del jefe de la sinagoga, Jesús notó el alboroto, y que la gente lloraba y daba grandes alaridos.   
 39 And when he had entered, he said to them, “Why are you making a commotion and weeping? The child is not dead but sleeping.”  
-39 Entró y les dijo:  
+39 Entró y les dijo: ―¿Por qué tanto alboroto y llanto? La niña no está muerta, sino dormida.  
 40 And they laughed at him. But he put them all outside and took the child's father and mother and those who were with him and went in where the child was.  
 40 Entonces empezaron a burlarse de él, pero él los sacó a todos, tomó consigo al padre y a la madre de la niña y a los discípulos que estaban con él, y entró adonde estaba la niña.   
 41 Taking her by the hand he said to her, “Talitha cumi,” which means, “Little girl, I say to you, arise.”  
-41 La tomó de la mano y le dijo:  
+41 La tomó de la mano y le dijo: ―Talita cum[b] (que significa: Niña, a ti te digo, ¡levántate!).  
 42 And immediately the girl got up and began walking (for she was twelve years of age), and they were immediately overcome with amazement.  
 42 La niña, que tenía doce años, se levantó en seguida y comenzó a andar. Ante este hecho todos se llenaron de asombro.   
 43 And he strictly charged them that no one should know this, and told them to give her something to eat.  
@@ -409,7 +409,7 @@
 6 He went away from there and came to his hometown, and his disciples followed him.  
 6 Salió Jesús de allí y fue a su tierra, en compañía de sus discípulos.   
 2 And on the Sabbath he began to teach in the synagogue, and many who heard him were astonished, saying, “Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands?  
-2 Cuando llegó el sábado, comenzó a enseñar en la sinagoga.  
+2 Cuando llegó el sábado, comenzó a enseñar en la sinagoga. ―¿De dónde sacó este tales cosas? —decían maravillados muchos de los que le oían—. ¿Qué sabiduría es esta que se le ha dado? ¿Cómo se explican estos milagros que vienen de sus manos?   
 3 Is not this the carpenter, the son of Mary and brother of James and Joses and Judas and Simon? And are not his sisters here with us?” And they took offense at him.  
 3 ¿No es acaso el carpintero, el hijo de María y hermano de Jacobo, de José, de Judas y de Simón? ¿No están sus hermanas aquí con nosotros?  
 4 And Jesus said to them, “A prophet is not without honor, except in his hometown and among his relatives and in his own household.”  
@@ -449,13 +449,13 @@
 21 But an opportunity came when Herod on his birthday gave a banquet for his nobles and military commanders and the leading men of Galilee.  
 21 Por fin se presentó la oportunidad. En su cumpleaños Herodes dio un banquete a sus altos oficiales, a los comandantes militares y a los notables de Galilea.   
 22 For when Herodias's daughter came in and danced, she pleased Herod and his guests. And the king said to the girl, “Ask me for whatever you wish, and I will give it to you.”  
-22 La hija de Herodías entró en el banquete y bailó, y esto agradó a Herodes y a los invitados.  
+22 La hija de Herodías entró en el banquete y bailó, y esto agradó a Herodes y a los invitados. ―Pídeme lo que quieras y te lo daré —le dijo el rey a la muchacha.  
 23 And he vowed to her, “Whatever you ask me, I will give you, up to half of my kingdom.”  
-23 Y le prometió bajo juramento:  
+23 Y le prometió bajo juramento: ―Te daré cualquier cosa que me pidas, aun cuando sea la mitad de mi reino.  
 24 And she went out and said to her mother, “For what should I ask?” And she said, “The head of John the Baptist.”  
-24 Ella salió a preguntarle a su madre:  
+24 Ella salió a preguntarle a su madre: ―¿Qué debo pedir? ―La cabeza de Juan el Bautista —contestó.  
 25 And she came in immediately with haste to the king and asked, saying, “I want you to give me at once the head of John the Baptist on a platter.”  
-25 En seguida se fue corriendo la muchacha a presentarle al rey su petición:  
+25 En seguida se fue corriendo la muchacha a presentarle al rey su petición: ―Quiero que ahora mismo me des en una bandeja la cabeza de Juan el Bautista.  
 26 And the king was exceedingly sorry, but because of his oaths and his guests he did not want to break his word to her.  
 26 El rey se quedó angustiado, pero, a causa de sus juramentos y en atención a los invitados, no quiso desairarla.   
 27 And immediately the king sent an executioner with orders to bring John's[e] head. He went and beheaded him in the prison  
@@ -467,7 +467,7 @@
 30 The apostles returned to Jesus and told him all that they had done and taught.  
 30 Los apóstoles se reunieron con Jesús y le contaron lo que habían hecho y enseñado.  
 31 And he said to them, “Come away by yourselves to a desolate place and rest a while.” For many were coming and going, and they had no leisure even to eat.  
-31 Y, como no tenían tiempo ni para comer, pues era tanta la gente que iba y venía, Jesús les dijo:  
+31 Y, como no tenían tiempo ni para comer, pues era tanta la gente que iba y venía, Jesús les dijo: ―Vengan conmigo ustedes solos a un lugar tranquilo y descansen un poco.  
 32 And they went away in the boat to a desolate place by themselves.  
 32 Así que se fueron solos en la barca a un lugar solitario.   
 33 Now many saw them going and recognized them, and they ran there on foot from all the towns and got there ahead of them.  
@@ -475,13 +475,13 @@
 34 When he went ashore he saw a great crowd, and he had compassion on them, because they were like sheep without a shepherd. And he began to teach them many things.  
 34 Cuando Jesús desembarcó y vio tanta gente, tuvo compasión de ellos, porque eran como ovejas sin pastor. Así que comenzó a enseñarles muchas cosas.  
 35 And when it grew late, his disciples came to him and said, “This is a desolate place, and the hour is now late.  
-35 Cuando ya se hizo tarde, se le acercaron sus discípulos y le dijeron:  
+35 Cuando ya se hizo tarde, se le acercaron sus discípulos y le dijeron: ―Este es un lugar apartado y ya es muy tarde.   
 36 Send them away to go into the surrounding countryside and villages and buy themselves something to eat.”  
 36 Despide a la gente, para que vayan a los campos y pueblos cercanos y se compren algo de comer.  
 37 But he answered them, “You give them something to eat.” And they said to him, “Shall we go and buy two hundred denarii[f] worth of bread and give it to them to eat?”  
-37 ―Denles ustedes mismos de comer —contestó Jesús.  
+37 ―Denles ustedes mismos de comer —contestó Jesús. ―¡Eso costaría casi un año de trabajo![b] —objetaron—. ¿Quieres que vayamos y gastemos todo ese dinero en pan para darles de comer?  
 38 And he said to them, “How many loaves do you have? Go and see.” And when they had found out, they said, “Five, and two fish.”  
-38 ―¿Cuántos panes tienen ustedes? —preguntó—. Vayan a ver.  
+38 ―¿Cuántos panes tienen ustedes? —preguntó—. Vayan a ver. ―Cinco, y dos pescados.  
 39 Then he commanded them all to sit down in groups on the green grass.  
 39 Entonces les mandó que hicieran que la gente se sentara por grupos sobre la hierba verde.   
 40 So they sat down in groups, by hundreds and by fifties.  
@@ -531,15 +531,15 @@
 4 and when they come from the marketplace, they do not eat unless they wash.[b] And there are many other traditions that they observe, such as the washing of cups and pots and copper vessels and dining couches.[c])  
 4 Al regresar del mercado, no comen nada antes de lavarse. Y siguen otras muchas tradiciones, tales como el rito de lavar copas, jarras y bandejas de cobre).[a]   
 5 And the Pharisees and the scribes asked him, “Why do your disciples not walk according to the tradition of the elders, but eat with defiled hands?”  
-5 Así que los fariseos y los maestros de la ley le preguntaron a Jesús:  
+5 Así que los fariseos y los maestros de la ley le preguntaron a Jesús: ―¿Por qué no siguen tus discípulos la tradición de los ancianos, en vez de comer con manos impuras?  
 6 And he said to them, “Well did Isaiah prophesy of you hypocrites, as it is written,  
-6 Él les contestó:  
+6 Él les contestó: ―Tenía razón Isaías cuando profetizó acerca de ustedes, hipócritas, según está escrito:  
 7 in vain do they worship me,  
 7 En vano me adoran;  
 8 You leave the commandment of God and hold to the tradition of men.”  
 8 Ustedes han desechado los mandamientos divinos y se aferran a las tradiciones humanas».  
 9 And he said to them, “You have a fine way of rejecting the commandment of God in order to establish your tradition!  
-9 Y añadió:  
+9 Y añadió: ―¡Qué buena manera tienen ustedes de dejar a un lado los mandamientos de Dios para mantener[c] sus propias tradiciones!   
 10 For Moses said, ‘Honor your father and your mother’; and, ‘Whoever reviles father or mother must surely die.’  
 10 Por ejemplo, Moisés dijo: “Honra a tu padre y a tu madre”,[d] y: “El que maldiga a su padre o a su madre será condenado a muerte”.[e]   
 11 But you say, ‘If a man tells his father or his mother, “Whatever you would have gained from me is Corban”’ (that is, given to God)[d]—  
@@ -549,7 +549,7 @@
 13 thus making void the word of God by your tradition that you have handed down. And many such things you do.”  
 13 Así, por la tradición que se transmiten entre ustedes, anulan la palabra de Dios. Y hacen muchas cosas parecidas.  
 14 And he called the people to him again and said to them, “Hear me, all of you, and understand:  
-14 De nuevo Jesús llamó a la multitud.  
+14 De nuevo Jesús llamó a la multitud. ―Escúchenme todos —dijo— y entiendan esto:   
 15 There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him.”[e]  
 15 Nada de lo que viene de afuera puede contaminar a una persona. Más bien, lo que sale de la persona es lo que la contamina.[f]  
 17 And when he had entered the house and left the people, his disciples asked him about the parable.  
@@ -559,7 +559,7 @@
 19 since it enters not his heart but his stomach, and is expelled?”[f] (Thus he declared all foods clean.)  
 19 Porque no entra en su corazón, sino en su estómago, y después va a dar a la letrina.  
 20 And he said, “What comes out of a person is what defiles him.  
-20 Luego añadió:  
+20 Luego añadió: ―Lo que sale de la persona es lo que la contamina.   
 21 For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery,  
 21 Porque de adentro, del corazón humano, salen los malos pensamientos, la inmoralidad sexual, los robos, los homicidios, los adulterios,   
 22 coveting, wickedness, deceit, sensuality, envy, slander, pride, foolishness.  
@@ -577,7 +577,7 @@
 28 But she answered him, “Yes, Lord; yet even the dogs under the table eat the children's crumbs.”  
 28 ―Sí, Señor —respondió la mujer—, pero hasta los perros comen debajo de la mesa las migajas que dejan los hijos.  
 29 And he said to her, “For this statement you may go your way; the demon has left your daughter.”  
-29 Jesús le dijo:  
+29 Jesús le dijo: ―Por haberme respondido así, puedes irte tranquila; el demonio ha salido de tu hija.  
 30 And she went home and found the child lying in bed and the demon gone.  
 30 Cuando ella llegó a su casa, encontró a la niña acostada en la cama. El demonio ya había salido de ella.  
 31 Then he returned from the region of Tyre and went through Sidon to the Sea of Galilee, in the region of the Decapolis.  
@@ -605,9 +605,9 @@
 3 And if I send them away hungry to their homes, they will faint on the way. And some of them have come from far away.”  
 3 Si los despido a sus casas sin haber comido, se van a desmayar por el camino, porque algunos de ellos han venido de lejos.  
 4 And his disciples answered him, “How can one feed these people with bread here in this desolate place?”  
-4 Los discípulos objetaron:  
+4 Los discípulos objetaron: ―¿Dónde se va a conseguir suficiente pan en este lugar despoblado para darles de comer?  
 5 And he asked them, “How many loaves do you have?” They said, “Seven.”  
-5 ―¿Cuántos panes tienen? —les preguntó Jesús.  
+5 ―¿Cuántos panes tienen? —les preguntó Jesús. ―Siete —respondieron.  
 6 And he directed the crowd to sit down on the ground. And he took the seven loaves, and having given thanks, he broke them and gave them to his disciples to set before the people; and they set them before the crowd.  
 6 Entonces mandó que la gente se sentara en el suelo. Tomando los siete panes, dio gracias, los partió y se los fue dando a sus discípulos para que los repartieran a la gente, y así lo hicieron.   
 7 And they had a few small fish. And having blessed them, he said that these also should be set before them.  
@@ -631,41 +631,41 @@
 16 And they began discussing with one another the fact that they had no bread.  
 16 Ellos comentaban entre sí: «Lo dice porque no tenemos pan».   
 17 And Jesus, aware of this, said to them, “Why are you discussing the fact that you have no bread? Do you not yet perceive or understand? Are your hearts hardened?  
-17 Al darse cuenta de esto, Jesús les dijo:  
+17 Al darse cuenta de esto, Jesús les dijo: ―¿Por qué están hablando de que no tienen pan? ¿Todavía no ven ni entienden? ¿Tienen la mente embotada?   
 18 Having eyes do you not see, and having ears do you not hear? And do you not remember?  
 18 ¿Es que tienen ojos, pero no ven, y oídos, pero no oyen? ¿Acaso no recuerdan?   
 19 When I broke the five loaves for the five thousand, how many baskets full of broken pieces did you take up?” They said to him, “Twelve.”  
-19 Cuando partí los cinco panes para los cinco mil, ¿cuántas canastas llenas de pedazos recogieron?  
+19 Cuando partí los cinco panes para los cinco mil, ¿cuántas canastas llenas de pedazos recogieron? ―Doce —respondieron.  
 20 “And the seven for the four thousand, how many baskets full of broken pieces did you take up?” And they said to him, “Seven.”  
-20 ―Y, cuando partí los siete panes para los cuatro mil, ¿cuántas cestas llenas de pedazos recogieron?  
+20 ―Y, cuando partí los siete panes para los cuatro mil, ¿cuántas cestas llenas de pedazos recogieron? ―Siete.  
 21 And he said to them, “Do you not yet understand?”  
-21 Entonces concluyó:  
+21 Entonces concluyó: ―¿Y todavía no entienden?  
 22 And they came to Bethsaida. And some people brought to him a blind man and begged him to touch him.  
 22 Cuando llegaron a Betsaida, algunas personas le llevaron un ciego a Jesús y le rogaron que lo tocara.   
 23 And he took the blind man by the hand and led him out of the village, and when he had spit on his eyes and laid his hands on him, he asked him, “Do you see anything?”  
-23 Él tomó de la mano al ciego y lo sacó fuera del pueblo. Después de escupirle en los ojos y de poner las manos sobre él, le preguntó:  
+23 Él tomó de la mano al ciego y lo sacó fuera del pueblo. Después de escupirle en los ojos y de poner las manos sobre él, le preguntó: ―¿Puedes ver ahora?  
 24 And he looked up and said, “I see people, but they look like trees, walking.”  
-24 El hombre alzó los ojos y dijo:  
+24 El hombre alzó los ojos y dijo: ―Veo gente; parecen árboles que caminan.  
 25 Then Jesus[c] laid his hands on his eyes again; and he opened his eyes, his sight was restored, and he saw everything clearly.  
 25 Entonces le puso de nuevo las manos sobre los ojos, y el ciego fue curado: recobró la vista y comenzó a ver todo con claridad.   
 26 And he sent him to his home, saying, “Do not even enter the village.”  
-26 Jesús lo mandó a su casa con esta advertencia:  
+26 Jesús lo mandó a su casa con esta advertencia: ―No vayas a entrar en el pueblo.[b]  
 27 And Jesus went on with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples, “Who do people say that I am?”  
-27 Jesús y sus discípulos salieron hacia las aldeas de Cesarea de Filipo. En el camino les preguntó:  
+27 Jesús y sus discípulos salieron hacia las aldeas de Cesarea de Filipo. En el camino les preguntó: ―¿Quién dice la gente que soy yo?  
 28 And they told him, “John the Baptist; and others say, Elijah; and others, one of the prophets.”  
 28 ―Unos dicen que Juan el Bautista, otros que Elías, y otros que uno de los profetas —contestaron.  
 29 And he asked them, “But who do you say that I am?” Peter answered him, “You are the Christ.”  
-29 ―Y ustedes, ¿quién dicen que soy yo?  
+29 ―Y ustedes, ¿quién dicen que soy yo? ―Tú eres el Cristo —afirmó Pedro.  
 30 And he strictly charged them to tell no one about him.  
 30 Jesús les ordenó que no hablaran a nadie acerca de él.  
 31 And he began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes and be killed, and after three days rise again.  
-31 Luego comenzó a enseñarles:  
+31 Luego comenzó a enseñarles: ―El Hijo del hombre tiene que sufrir muchas cosas y ser rechazado por los ancianos, por los jefes de los sacerdotes y por los maestros de la ley. Es necesario que lo maten y que a los tres días resucite.  
 32 And he said this plainly. And Peter took him aside and began to rebuke him.  
 32 Habló de esto con toda claridad. Pedro lo llevó aparte y comenzó a reprenderlo.   
 33 But turning and seeing his disciples, he rebuked Peter and said, “Get behind me, Satan! For you are not setting your mind on the things of God, but on the things of man.”  
-33 Pero Jesús se dio la vuelta, miró a sus discípulos, y reprendió a Pedro.  
+33 Pero Jesús se dio la vuelta, miró a sus discípulos, y reprendió a Pedro. ―¡Aléjate de mí, Satanás! —le dijo—. Tú no piensas en las cosas de Dios, sino en las de los hombres.  
 34 And calling the crowd to him with his disciples, he said to them, “If anyone would come after me, let him deny himself and take up his cross and follow me.  
-34 Entonces llamó a la multitud y a sus discípulos.  
+34 Entonces llamó a la multitud y a sus discípulos. ―Si alguien quiere ser mi discípulo —les dijo—, que se niegue a sí mismo, lleve su cruz y me siga.   
 35 For whoever would save his life[d] will lose it, but whoever loses his life for my sake and the gospel's will save it.  
 35 Porque el que quiera salvar su vida la perderá; pero el que pierda su vida por mi causa y por el evangelio la salvará.   
 36 For what does it profit a man to gain the whole world and forfeit his soul?  
@@ -679,7 +679,7 @@
 ## 9  
 ## 9  
 9 And he said to them, “Truly, I say to you, there are some standing here who will not taste death until they see the kingdom of God after it has come with power.”  
-9 Y añadió:  
+9 Y añadió: ―Les aseguro que algunos de los aquí presentes no sufrirán la muerte sin antes haber visto el reino de Dios llegar con poder.  
 2 And after six days Jesus took with him Peter and James and John, and led them up a high mountain by themselves. And he was transfigured before them,  
 2 Seis días después Jesús tomó consigo a Pedro, a Jacobo y a Juan, y los llevó a una montaña alta, donde estaban solos. Allí se transfiguró en presencia de ellos.   
 3 and his clothes became radiant, intensely white, as no one[a] on earth could bleach them.  
@@ -687,7 +687,7 @@
 4 And there appeared to them Elijah with Moses, and they were talking with Jesus.  
 4 Y se les aparecieron Elías y Moisés, los cuales conversaban con Jesús.   
 5 And Peter said to Jesus, “Rabbi,[b] it is good that we are here. Let us make three tents, one for you and one for Moses and one for Elijah.”  
-5 Tomando la palabra, Pedro le dijo a Jesús:  
+5 Tomando la palabra, Pedro le dijo a Jesús: ―Rabí, ¡qué bien que estemos aquí! Podemos levantar tres albergues: uno para ti, otro para Moisés y otro para Elías.  
 6 For he did not know what to say, for they were terrified.  
 6 No sabía qué decir, porque todos estaban asustados.   
 7 And a cloud overshadowed them, and a voice came out of the cloud, “This is my beloved Son;[c] listen to him.”  
@@ -719,7 +719,7 @@
 20 And they brought the boy to him. And when the spirit saw him, immediately it convulsed the boy, and he fell on the ground and rolled about, foaming at the mouth.  
 20 Así que se lo llevaron. Tan pronto como vio a Jesús, el espíritu sacudió de tal modo al muchacho que este cayó al suelo y comenzó a revolcarse echando espumarajos.  
 21 And Jesus asked his father, “How long has this been happening to him?” And he said, “From childhood.  
-21 ―¿Cuánto tiempo hace que le pasa esto? —le preguntó Jesús al padre.  
+21 ―¿Cuánto tiempo hace que le pasa esto? —le preguntó Jesús al padre. ―Desde que era niño —contestó—.   
 22 And it has often cast him into fire and into water, to destroy him. But if you can do anything, have compassion on us and help us.”  
 22 Muchas veces lo ha echado al fuego y al agua para matarlo. Si puedes hacer algo, ten compasión de nosotros y ayúdanos.  
 23 And Jesus said to him, “‘If you can’! All things are possible for one who believes.”  
@@ -727,13 +727,13 @@
 24 Immediately the father of the child cried out[d] and said, “I believe; help my unbelief!”  
 24 ―¡Sí creo! —exclamó de inmediato el padre del muchacho—. ¡Ayúdame en mi poca fe!  
 25 And when Jesus saw that a crowd came running together, he rebuked the unclean spirit, saying to it, “You mute and deaf spirit, I command you, come out of him and never enter him again.”  
-25 Al ver Jesús que se agolpaba mucha gente, reprendió al espíritu maligno.  
+25 Al ver Jesús que se agolpaba mucha gente, reprendió al espíritu maligno. ―Espíritu sordo y mudo —dijo—, te mando que salgas y que jamás vuelvas a entrar en él.  
 26 And after crying out and convulsing him terribly, it came out, and the boy was like a corpse, so that most of them said, “He is dead.”  
 26 El espíritu, dando un alarido y sacudiendo violentamente al muchacho, salió de él. Este quedó como muerto, tanto que muchos decían: «Ya se murió».   
 27 But Jesus took him by the hand and lifted him up, and he arose.  
 27 Pero Jesús lo tomó de la mano y lo levantó, y el muchacho se puso de pie.  
 28 And when he had entered the house, his disciples asked him privately, “Why could we not cast it out?”  
-28 Cuando Jesús entró en casa, sus discípulos le preguntaron en privado:  
+28 Cuando Jesús entró en casa, sus discípulos le preguntaron en privado: ―¿Por qué nosotros no pudimos expulsarlo?  
 29 And he said to them, “This kind cannot be driven out by anything but prayer.”[e]  
 29 ―Esta clase de demonios solo puede ser expulsada a fuerza de oración[b] —respondió Jesús.  
 30 They went on from there and passed through Galilee. And he did not want anyone to know,  
@@ -743,11 +743,11 @@
 32 But they did not understand the saying, and were afraid to ask him.  
 32 Pero ellos no entendían lo que quería decir con esto, y no se atrevían a preguntárselo.  
 33 And they came to Capernaum. And when he was in the house he asked them, “What were you discussing on the way?”  
-33 Llegaron a Capernaúm. Cuando ya estaba en casa, Jesús les preguntó:  
+33 Llegaron a Capernaúm. Cuando ya estaba en casa, Jesús les preguntó: ―¿Qué venían discutiendo por el camino?  
 34 But they kept silent, for on the way they had argued with one another about who was the greatest.  
 34 Pero ellos se quedaron callados, porque en el camino habían discutido entre sí quién era el más importante.  
 35 And he sat down and called the twelve. And he said to them, “If anyone would be first, he must be last of all and servant of all.”  
-35 Entonces Jesús se sentó, llamó a los doce y les dijo:  
+35 Entonces Jesús se sentó, llamó a los doce y les dijo: ―Si alguno quiere ser el primero, que sea el último de todos y el servidor de todos.  
 36 And he took a child and put him in the midst of them, and taking him in his arms, he said to them,  
 36 Luego tomó a un niño y lo puso en medio de ellos. Abrazándolo, les dijo:  
 37 “Whoever receives one such child in my name receives me, and whoever receives me, receives not me but him who sent me.”  
@@ -781,7 +781,7 @@
 10 And he left there and went to the region of Judea and beyond the Jordan, and crowds gathered to him again. And again, as was his custom, he taught them.  
 10 Jesús partió de aquel lugar y se fue a la región de Judea y al otro lado del Jordán. Otra vez se le reunieron las multitudes y, como era su costumbre, les enseñaba.  
 2 And Pharisees came up and in order to test him asked, “Is it lawful for a man to divorce his wife?”  
-2 En eso, unos fariseos se le acercaron y, para ponerlo a prueba, le preguntaron:  
+2 En eso, unos fariseos se le acercaron y, para ponerlo a prueba, le preguntaron: ―¿Está permitido que un hombre se divorcie de su esposa?  
 3 He answered them, “What did Moses command you?”  
 3 ―¿Qué les mandó Moisés? —replicó Jesús.  
 4 They said, “Moses allowed a man to write a certificate of divorce and to send her away.”  
@@ -811,7 +811,7 @@
 16 And he took them in his arms and blessed them, laying his hands on them.  
 16 Y después de abrazarlos, los bendecía poniendo las manos sobre ellos.  
 17 And as he was setting out on his journey, a man ran up and knelt before him and asked him, “Good Teacher, what must I do to inherit eternal life?”  
-17 Cuando Jesús estaba ya para irse, un hombre llegó corriendo y se postró delante de él.  
+17 Cuando Jesús estaba ya para irse, un hombre llegó corriendo y se postró delante de él. ―Maestro bueno —le preguntó—, ¿qué debo hacer para heredar la vida eterna?  
 18 And Jesus said to him, “Why do you call me good? No one is good except God alone.  
 18 ―¿Por qué me llamas bueno? —respondió Jesús—. Nadie es bueno sino solo Dios.   
 19 You know the commandments: ‘Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor your father and mother.’”  
@@ -819,13 +819,13 @@
 20 And he said to him, “Teacher, all these I have kept from my youth.”  
 20 ―Maestro —dijo el hombre—, todo eso lo he cumplido desde que era joven.  
 21 And Jesus, looking at him, loved him, and said to him, “You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me.”  
-21 Jesús lo miró con amor y añadió:  
+21 Jesús lo miró con amor y añadió: ―Una sola cosa te falta: anda, vende todo lo que tienes y dáselo a los pobres, y tendrás tesoro en el cielo. Luego ven y sígueme.  
 22 Disheartened by the saying, he went away sorrowful, for he had great possessions.  
 22 Al oír esto, el hombre se desanimó y se fue triste porque tenía muchas riquezas.  
 23 And Jesus looked around and said to his disciples, “How difficult it will be for those who have wealth to enter the kingdom of God!”  
-23 Jesús miró alrededor y les comentó a sus discípulos:  
+23 Jesús miró alrededor y les comentó a sus discípulos: ―¡Qué difícil es para los ricos entrar en el reino de Dios!  
 24 And the disciples were amazed at his words. But Jesus said to them again, “Children, how difficult it is[b] to enter the kingdom of God!  
-24 Los discípulos se asombraron de sus palabras.  
+24 Los discípulos se asombraron de sus palabras. ―Hijos, ¡qué difícil es entrar[f] en el reino de Dios! —repitió Jesús—.   
 25 It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”  
 25 Le resulta más fácil a un camello pasar por el ojo de una aguja que a un rico entrar en el reino de Dios.  
 26 And they were exceedingly astonished, and said to him,[c] “Then who can be saved?”  
@@ -847,7 +847,7 @@
 34 And they will mock him and spit on him, and flog him and kill him. And after three days he will rise.”  
 34 Se burlarán de él, le escupirán, lo azotarán y lo matarán. Pero a los tres días resucitará».  
 35 And James and John, the sons of Zebedee, came up to him and said to him, “Teacher, we want you to do for us whatever we ask of you.”  
-35 Se le acercaron Jacobo y Juan, hijos de Zebedeo.  
+35 Se le acercaron Jacobo y Juan, hijos de Zebedeo. ―Maestro —le dijeron—, queremos que nos concedas lo que te vamos a pedir.  
 36 And he said to them, “What do you want me to do for you?”  
 36 ―¿Qué quieren que haga por ustedes?  
 37 And they said to him, “Grant us to sit, one at your right hand and one at your left, in your glory.”  
@@ -855,13 +855,13 @@
 38 Jesus said to them, “You do not know what you are asking. Are you able to drink the cup that I drink, or to be baptized with the baptism with which I am baptized?”  
 38 ―No saben lo que están pidiendo —les replicó Jesús—. ¿Pueden acaso beber el trago amargo de la copa que yo bebo, o pasar por la prueba del bautismo con el que voy a ser probado?[g]  
 39 And they said to him, “We are able.” And Jesus said to them, “The cup that I drink you will drink, and with the baptism with which I am baptized, you will be baptized,  
-39 ―Sí, podemos.  
+39 ―Sí, podemos. ―Ustedes beberán de la copa que yo bebo —les respondió Jesús— y pasarán por la prueba del bautismo con el que voy a ser probado,   
 40 but to sit at my right hand or at my left is not mine to grant, but it is for those for whom it has been prepared.”  
 40 pero el sentarse a mi derecha o a mi izquierda no me corresponde a mí concederlo. Eso ya está decidido.[h]  
 41 And when the ten heard it, they began to be indignant at James and John.  
 41 Los otros diez, al oír la conversación, se indignaron contra Jacobo y Juan.   
 42 And Jesus called them to him and said to them, “You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them.  
-42 Así que Jesús los llamó y les dijo:  
+42 Así que Jesús los llamó y les dijo: ―Como ustedes saben, los que se consideran jefes de las naciones oprimen a los súbditos, y los altos oficiales abusan de su autoridad.   
 43 But it shall not be so among you. But whoever would be great among you must be your servant,[d]  
 43 Pero entre ustedes no debe ser así. Al contrario, el que quiera hacerse grande entre ustedes deberá ser su servidor,   
 44 and whoever would be first among you must be slave[e] of all.  
@@ -871,15 +871,15 @@
 46 And they came to Jericho. And as he was leaving Jericho with his disciples and a great crowd, Bartimaeus, a blind beggar, the son of Timaeus, was sitting by the roadside.  
 46 Después llegaron a Jericó. Más tarde, salió Jesús de la ciudad acompañado de sus discípulos y de una gran multitud. Un mendigo ciego llamado Bartimeo (el hijo de Timeo) estaba sentado junto al camino.   
 47 And when he heard that it was Jesus of Nazareth, he began to cry out and say, “Jesus, Son of David, have mercy on me!”  
-47 Al oír que el que venía era Jesús de Nazaret, se puso a gritar:  
+47 Al oír que el que venía era Jesús de Nazaret, se puso a gritar: ―¡Jesús, Hijo de David, ten compasión de mí!  
 48 And many rebuked him, telling him to be silent. But he cried out all the more, “Son of David, have mercy on me!”  
-48 Muchos lo reprendían para que se callara, pero él se puso a gritar aún más:  
+48 Muchos lo reprendían para que se callara, pero él se puso a gritar aún más: ―¡Hijo de David, ten compasión de mí!  
 49 And Jesus stopped and said, “Call him.” And they called the blind man, saying to him, “Take heart. Get up; he is calling you.”  
-49 Jesús se detuvo y dijo:  
+49 Jesús se detuvo y dijo: ―Llámenlo. ―¡Ánimo! —le dijeron—. ¡Levántate! Te llama.  
 50 And throwing off his cloak, he sprang up and came to Jesus.  
 50 Él, arrojando la capa, dio un salto y se acercó a Jesús.  
 51 And Jesus said to him, “What do you want me to do for you?” And the blind man said to him, “Rabbi, let me recover my sight.”  
-51 ―¿Qué quieres que haga por ti? —le preguntó.  
+51 ―¿Qué quieres que haga por ti? —le preguntó. ―Rabí, quiero ver —respondió el ciego.  
 52 And Jesus said to him, “Go your way; your faith has made you well.” And immediately he recovered his sight and followed him on the way.  
 52 ―Puedes irte —le dijo Jesús—; tu fe te ha sanado.  
 # Mark  
@@ -903,9 +903,9 @@
 8 And many spread their cloaks on the road, and others spread leafy branches that they had cut from the fields.  
 8 Muchos tendieron sus mantos sobre el camino; otros usaron ramas que habían cortado en los campos.   
 9 And those who went before and those who followed were shouting, “Hosanna! Blessed is he who comes in the name of the Lord!  
-9 Tanto los que iban delante como los que iban detrás gritaban:  
+9 Tanto los que iban delante como los que iban detrás gritaban: ―¡Hosanna![a] ―¡Bendito el que viene en el nombre del Señor![b]  
 10 Blessed is the coming kingdom of our father David! Hosanna in the highest!”  
-10 ―¡Bendito el reino venidero de nuestro padre David!  
+10 ―¡Bendito el reino venidero de nuestro padre David! ―¡Hosanna en las alturas!  
 11 And he entered Jerusalem and went into the temple. And when he had looked around at everything, as it was already late, he went out to Bethany with the twelve.  
 11 Jesús entró en Jerusalén y fue al templo. Después de observarlo todo, como ya era tarde, salió para Betania con los doce.  
 12 On the following day, when they came from Bethany, he was hungry.  
@@ -927,7 +927,7 @@
 20 As they passed by in the morning, they saw the fig tree withered away to its roots.  
 20 Por la mañana, al pasar junto a la higuera, vieron que se había secado de raíz.   
 21 And Peter remembered and said to him, “Rabbi, look! The fig tree that you cursed has withered.”  
-21 Pedro, acordándose, le dijo a Jesús:  
+21 Pedro, acordándose, le dijo a Jesús: ―¡Rabí, mira, se ha secado la higuera que maldijiste!  
 22 And Jesus answered them, “Have faith in God.  
 22 ―Tengan fe en Dios —respondió Jesús—.   
 23 Truly, I say to you, whoever says to this mountain, ‘Be taken up and thrown into the sea,’ and does not doubt in his heart, but believes that what he says will come to pass, it will be done for him.  
@@ -949,7 +949,7 @@
 32 But shall we say, ‘From man’?”—they were afraid of the people, for they all held that John really was a prophet.  
 32 Pero, si decimos: “De la tierra”…» Es que temían al pueblo, porque todos consideraban que Juan era realmente un profeta.   
 33 So they answered Jesus, “We do not know.” And Jesus said to them, “Neither will I tell you by what authority I do these things.”  
-33 Así que le respondieron a Jesús:  
+33 Así que le respondieron a Jesús: ―No lo sabemos. ―Pues yo tampoco les voy a decir con qué autoridad hago esto.  
 # Mark  
 # Mark  
 ## 12  
@@ -981,11 +981,11 @@
 13 And they sent to him some of the Pharisees and some of the Herodians, to trap him in his talk.  
 13 Luego enviaron a Jesús algunos de los fariseos y de los herodianos para tenderle una trampa con sus mismas palabras.   
 14 And they came and said to him, “Teacher, we know that you are true and do not care about anyone's opinion. For you are not swayed by appearances,[c] but truly teach the way of God. Is it lawful to pay taxes to Caesar, or not? Should we pay them, or should we not?”  
-14 Al llegar le dijeron:  
+14 Al llegar le dijeron: ―Maestro, sabemos que eres un hombre íntegro. No te dejas influir por nadie porque no te fijas en las apariencias, sino que de verdad enseñas el camino de Dios. ¿Está permitido pagar impuestos al césar o no?   
 15 But, knowing their hypocrisy, he said to them, “Why put me to the test? Bring me a denarius[d] and let me look at it.”  
-15 ¿Debemos pagar o no?  
+15 ¿Debemos pagar o no? ―¿Por qué me tienden trampas? Tráiganme una moneda romana[b] para verla.  
 16 And they brought one. And he said to them, “Whose likeness and inscription is this?” They said to him, “Caesar's.”  
-16 Le llevaron la moneda, y él les preguntó:  
+16 Le llevaron la moneda, y él les preguntó: ―¿De quién son esta imagen y esta inscripción? ―Del césar —contestaron.  
 17 Jesus said to them, “Render to Caesar the things that are Caesar's, and to God the things that are God's.” And they marveled at him.  
 17 ―Denle, pues, al césar lo que es del césar, y a Dios lo que es de Dios.  
 18 And Sadducees came to him, who say that there is no resurrection. And they asked him a question, saying,  
@@ -1009,7 +1009,7 @@
 27 He is not God of the dead, but of the living. You are quite wrong.”  
 27 Él no es Dios de muertos, sino de vivos. ¡Ustedes andan muy equivocados!  
 28 And one of the scribes came up and heard them disputing with one another, and seeing that he answered them well, asked him, “Which commandment is the most important of all?”  
-28 Uno de los maestros de la ley se acercó y los oyó discutiendo. Al ver lo bien que Jesús les había contestado, le preguntó:  
+28 Uno de los maestros de la ley se acercó y los oyó discutiendo. Al ver lo bien que Jesús les había contestado, le preguntó: ―De todos los mandamientos, ¿cuál es el más importante?  
 29 Jesus answered, “The most important is, ‘Hear, O Israel: The Lord our God, the Lord is one.  
 29 ―El más importante es: “Oye, Israel. El Señor nuestro Dios es el único Señor[d] —contestó Jesús—.   
 30 And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’  
@@ -1021,15 +1021,15 @@
 33 And to love him with all the heart and with all the understanding and with all the strength, and to love one's neighbor as oneself, is much more than all whole burnt offerings and sacrifices.”  
 33 Amarlo con todo el corazón, con todo el entendimiento y con todas las fuerzas, y amar al prójimo como a uno mismo, es más importante que todos los holocaustos y sacrificios.  
 34 And when Jesus saw that he answered wisely, he said to him, “You are not far from the kingdom of God.” And after that no one dared to ask him any more questions.  
-34 Al ver Jesús que había respondido con inteligencia, le dijo:  
+34 Al ver Jesús que había respondido con inteligencia, le dijo: ―No estás lejos del reino de Dios.  
 35 And as Jesus taught in the temple, he said, “How can the scribes say that the Christ is the son of David?  
-35 Mientras enseñaba en el templo, Jesús les propuso:  
+35 Mientras enseñaba en el templo, Jesús les propuso: ―¿Cómo es que los maestros de la ley dicen que el Cristo es hijo de David?   
 36 David himself, in the Holy Spirit, declared,  
 36 David mismo, hablando por el Espíritu Santo, declaró:  
 37 David himself calls him Lord. So how is he his son?” And the great throng heard him gladly.  
 37 Si David mismo lo llama “Señor”, ¿cómo puede ser su hijo?»  
 38 And in his teaching he said, “Beware of the scribes, who like to walk around in long robes and like greetings in the marketplaces  
-38 Como parte de su enseñanza Jesús decía:  
+38 Como parte de su enseñanza Jesús decía: ―Tengan cuidado de los maestros de la ley. Les gusta pasearse con ropas ostentosas y que los saluden en las plazas,   
 39 and have the best seats in the synagogues and the places of honor at feasts,  
 39 ocupar los primeros asientos en las sinagogas y los lugares de honor en los banquetes.   
 40 who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation.”  
@@ -1047,7 +1047,7 @@
 ## 13  
 ## 13  
 13 And as he came out of the temple, one of his disciples said to him, “Look, Teacher, what wonderful stones and what wonderful buildings!”  
-13 Cuando salía Jesús del templo, le dijo uno de sus discípulos:  
+13 Cuando salía Jesús del templo, le dijo uno de sus discípulos: ―¡Mira, Maestro! ¡Qué piedras! ¡Qué edificios!  
 2 And Jesus said to him, “Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down.”  
 2 ―¿Ves todos estos grandiosos edificios? —contestó Jesús—. No quedará piedra sobre piedra; todo será derribado.  
 3 And as he sat on the Mount of Olives opposite the temple, Peter and James and John and Andrew asked him privately,  
@@ -1131,7 +1131,7 @@
 3 And while he was at Bethany in the house of Simon the leper,[a] as he was reclining at table, a woman came with an alabaster flask of ointment of pure nard, very costly, and she broke the flask and poured it over his head.  
 3 En Betania, mientras estaba él sentado a la mesa en casa de Simón llamado el Leproso, llegó una mujer con un frasco de alabastro lleno de un perfume muy costoso, hecho de nardo puro. Rompió el frasco y derramó el perfume sobre la cabeza de Jesús.  
 4 There were some who said to themselves indignantly, “Why was the ointment wasted like that?  
-4 Algunos de los presentes comentaban indignados:  
+4 Algunos de los presentes comentaban indignados: ―¿Para qué este desperdicio de perfume?   
 5 For this ointment could have been sold for more than three hundred denarii[b] and given to the poor.” And they scolded her.  
 5 Podía haberse vendido por muchísimo dinero[a] para darlo a los pobres.  
 6 But Jesus said, “Leave her alone. Why do you trouble her? She has done a beautiful thing to me.  
@@ -1147,9 +1147,9 @@
 11 And when they heard it, they were glad and promised to give him money. And he sought an opportunity to betray him.  
 11 Ellos se alegraron al oírlo, y prometieron darle dinero. Así que él buscaba la ocasión propicia para entregarlo.  
 12 And on the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, “Where will you have us go and prepare for you to eat the Passover?”  
-12 El primer día de la fiesta de los Panes sin levadura, cuando se acostumbraba sacrificar el cordero de la Pascua, los discípulos le preguntaron a Jesús:  
+12 El primer día de la fiesta de los Panes sin levadura, cuando se acostumbraba sacrificar el cordero de la Pascua, los discípulos le preguntaron a Jesús: ―¿Dónde quieres que vayamos a hacer los preparativos para que comas la Pascua?  
 13 And he sent two of his disciples and said to them, “Go into the city, and a man carrying a jar of water will meet you. Follow him,  
-13 Él envió a dos de sus discípulos con este encargo:  
+13 Él envió a dos de sus discípulos con este encargo: ―Vayan a la ciudad y les saldrá al encuentro un hombre que lleva un cántaro de agua. Síganlo,   
 14 and wherever he enters, say to the master of the house, ‘The Teacher says, Where is my guest room, where I may eat the Passover with my disciples?’  
 14 y allí donde entre díganle al dueño: “El Maestro pregunta: ¿Dónde está la sala en la que pueda comer la Pascua con mis discípulos?”   
 15 And he will show you a large upper room furnished and ready; there prepare for us.”  
@@ -1159,15 +1159,15 @@
 17 And when it was evening, he came with the twelve.  
 17 Al anochecer llegó Jesús con los doce.   
 18 And as they were reclining at table and eating, Jesus said, “Truly, I say to you, one of you will betray me, one who is eating with me.”  
-18 Mientras estaban sentados a la mesa comiendo, dijo:  
+18 Mientras estaban sentados a la mesa comiendo, dijo: ―Les aseguro que uno de ustedes, que está comiendo conmigo, me va a traicionar.  
 19 They began to be sorrowful and to say to him one after another, “Is it I?”  
-19 Ellos se pusieron tristes, y uno tras otro empezaron a preguntarle:  
+19 Ellos se pusieron tristes, y uno tras otro empezaron a preguntarle: ―¿Acaso seré yo?  
 20 He said to them, “It is one of the twelve, one who is dipping bread into the dish with me.  
 20 ―Es uno de los doce —contestó—, uno que moja el pan conmigo en el plato.   
 21 For the Son of Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born.”  
 21 A la verdad, el Hijo del hombre se irá tal como está escrito de él, pero ¡ay de aquel que lo traiciona! Más le valdría a ese hombre no haber nacido.  
 22 And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said, “Take; this is my body.”  
-22 Mientras comían, Jesús tomó pan y lo bendijo. Luego lo partió y se lo dio a ellos, diciéndoles:  
+22 Mientras comían, Jesús tomó pan y lo bendijo. Luego lo partió y se lo dio a ellos, diciéndoles: ―Tomen; esto es mi cuerpo.  
 23 And he took a cup, and when he had given thanks he gave it to them, and they all drank of it.  
 23 Después tomó una copa, dio gracias y se la dio a ellos, y todos bebieron de ella.  
 24 And he said to them, “This is my blood of the[c] covenant, which is poured out for many.  
@@ -1213,7 +1213,7 @@
 44 Now the betrayer had given them a sign, saying, “The one I will kiss is the man. Seize him and lead him away under guard.”  
 44 El traidor les había dado esta contraseña: «Al que yo le dé un beso, ese es; arréstenlo y llévenselo bien asegurado».   
 45 And when he came, he went up to him at once and said, “Rabbi!” And he kissed him.  
-45 Tan pronto como llegó, Judas se acercó a Jesús.  
+45 Tan pronto como llegó, Judas se acercó a Jesús. ―¡Rabí! —le dijo, y lo besó.  
 46 And they laid hands on him and seized him.  
 46 Entonces los hombres prendieron a Jesús.   
 47 But one of those who stood by drew his sword and struck the servant[e] of the high priest and cut off his ear.  
@@ -1243,9 +1243,9 @@
 59 Yet even about this their testimony did not agree.  
 59 Pero ni aun así concordaban sus declaraciones.  
 60 And the high priest stood up in the midst and asked Jesus, “Have you no answer to make? What is it that these men testify against you?”[g]  
-60 Poniéndose de pie en el medio, el sumo sacerdote interrogó a Jesús:  
+60 Poniéndose de pie en el medio, el sumo sacerdote interrogó a Jesús: ―¿No tienes nada que contestar? ¿Qué significan estas denuncias en tu contra?  
 61 But he remained silent and made no answer. Again the high priest asked him, “Are you the Christ, the Son of the Blessed?”  
-61 Pero Jesús se quedó callado y no contestó nada.  
+61 Pero Jesús se quedó callado y no contestó nada. ―¿Eres el Cristo, el Hijo del Bendito? —le preguntó de nuevo el sumo sacerdote.  
 62 And Jesus said, “I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.”  
 62 ―Sí, yo soy —dijo Jesús—. Y ustedes verán al Hijo del hombre sentado a la derecha del Todopoderoso, y viniendo en las nubes del cielo.  
 63 And the high priest tore his garments and said, “What further witnesses do we need?  
@@ -1253,19 +1253,19 @@
 64 You have heard his blasphemy. What is your decision?” And they all condemned him as deserving death.  
 64 ¡Ustedes han oído la blasfemia! ¿Qué les parece?  
 65 And some began to spit on him and to cover his face and to strike him, saying to him, “Prophesy!” And the guards received him with blows.  
-65 Algunos comenzaron a escupirle; le vendaron los ojos y le daban puñetazos.  
+65 Algunos comenzaron a escupirle; le vendaron los ojos y le daban puñetazos. ―¡Profetiza! —le gritaban.  
 66 And as Peter was below in the courtyard, one of the servant girls of the high priest came,  
 66 Mientras Pedro estaba abajo en el patio, pasó una de las criadas del sumo sacerdote.   
 67 and seeing Peter warming himself, she looked at him and said, “You also were with the Nazarene, Jesus.”  
-67 Cuando vio a Pedro calentándose, se fijó en él.  
+67 Cuando vio a Pedro calentándose, se fijó en él. ―Tú también estabas con ese nazareno, con Jesús —le dijo ella.  
 68 But he denied it, saying, “I neither know nor understand what you mean.” And he went out into the gateway[h] and the rooster crowed.[i]  
-68 Pero él lo negó:  
+68 Pero él lo negó: ―No lo conozco. Ni siquiera sé de qué estás hablando.  
 69 And the servant girl saw him and began again to say to the bystanders, “This man is one of them.”  
-69 Cuando la criada lo vio allí, les dijo de nuevo a los presentes:  
+69 Cuando la criada lo vio allí, les dijo de nuevo a los presentes: ―Este es uno de ellos.  
 70 But again he denied it. And after a little while the bystanders again said to Peter, “Certainly you are one of them, for you are a Galilean.”  
-70 Él lo volvió a negar.  
+70 Él lo volvió a negar. ―Seguro que tú eres uno de ellos, pues eres galileo.  
 71 But he began to invoke a curse on himself and to swear, “I do not know this man of whom you speak.”  
-71 Él comenzó a echarse maldiciones.  
+71 Él comenzó a echarse maldiciones. ―¡No conozco a ese hombre del que hablan! —les juró.  
 72 And immediately the rooster crowed a second time. And Peter remembered how Jesus had said to him, “Before the rooster crows twice, you will deny me three times.” And he broke down and wept.[j]  
 72 Al instante un gallo cantó por segunda vez.[i] Pedro se acordó de lo que Jesús le había dicho: «Antes de que el gallo cante por segunda vez,[j] me negarás tres veces». Y se echó a llorar.  
 # Mark  
@@ -1275,7 +1275,7 @@
 15 And as soon as it was morning, the chief priests held a consultation with the elders and scribes and the whole council. And they bound Jesus and led him away and delivered him over to Pilate.  
 15 Tan pronto como amaneció, los jefes de los sacerdotes, con los ancianos, los maestros de la ley y el Consejo en pleno, llegaron a una decisión. Ataron a Jesús, se lo llevaron y se lo entregaron a Pilato.  
 2 And Pilate asked him, “Are you the King of the Jews?” And he answered him, “You have said so.”  
-2 ―¿Eres tú el rey de los judíos? —le preguntó Pilato.  
+2 ―¿Eres tú el rey de los judíos? —le preguntó Pilato. ―Tú mismo lo dices —respondió.  
 3 And the chief priests accused him of many things.  
 3 Los jefes de los sacerdotes se pusieron a acusarlo de muchas cosas.  
 4 And Pilate again asked him, “Have you no answer to make? See how many charges they bring against you.”  
@@ -1299,7 +1299,7 @@
 13 And they cried out again, “Crucify him.”  
 13 ―¡Crucifícalo! —gritaron.  
 14 And Pilate said to them, “Why? What evil has he done?” But they shouted all the more, “Crucify him.”  
-14 ―¿Por qué? ¿Qué crimen ha cometido?  
+14 ―¿Por qué? ¿Qué crimen ha cometido? ―¡Crucifícalo!  
 15 So Pilate, wishing to satisfy the crowd, released for them Barabbas, and having scourged[a] Jesus, he delivered him to be crucified.  
 15 Como quería satisfacer a la multitud, Pilato les soltó a Barrabás; a Jesús lo mandó azotar, y lo entregó para que lo crucificaran.  
 16 And the soldiers led him away inside the palace (that is, the governor's headquarters),[b] and they called together the whole battalion.[c]  
@@ -1327,27 +1327,27 @@
 27 And with him they crucified two robbers, one on his right and one on his left.[e]  
 27 Con él crucificaron a dos bandidos,[b] uno a su derecha y otro a su izquierda.[c]   
 29 And those who passed by derided him, wagging their heads and saying, “Aha! You who would destroy the temple and rebuild it in three days,  
-29 Los que pasaban meneaban la cabeza y blasfemaban contra él.  
+29 Los que pasaban meneaban la cabeza y blasfemaban contra él. ―¡Eh! Tú que destruyes el templo y en tres días lo reconstruyes —decían—,   
 30 save yourself, and come down from the cross!”  
 30 ¡baja de la cruz y sálvate a ti mismo!  
 31 So also the chief priests with the scribes mocked him to one another, saying, “He saved others; he cannot save himself.  
-31 De la misma manera se burlaban de él los jefes de los sacerdotes junto con los maestros de la ley.  
+31 De la misma manera se burlaban de él los jefes de los sacerdotes junto con los maestros de la ley. ―Salvó a otros —decían—, ¡pero no puede salvarse a sí mismo!   
 32 Let the Christ, the King of Israel, come down now from the cross that we may see and believe.” Those who were crucified with him also reviled him.  
 32 Que baje ahora de la cruz ese Cristo, el rey de Israel, para que veamos y creamos.  
 33 And when the sixth hour[f] had come, there was darkness over the whole land until the ninth hour.[g]  
 33 Desde el mediodía y hasta la media tarde quedó toda la tierra en oscuridad.   
 34 And at the ninth hour Jesus cried with a loud voice, “Eloi, Eloi, lema sabachthani?” which means, “My God, my God, why have you forsaken me?”  
-34 A las tres de la tarde[d] Jesús gritó a voz en cuello:  
+34 A las tres de la tarde[d] Jesús gritó a voz en cuello: ―Eloi, Eloi, ¿lama sabactani? (que significa: “Dios mío, Dios mío, ¿por qué me has desamparado?”).[e]  
 35 And some of the bystanders hearing it said, “Behold, he is calling Elijah.”  
-35 Cuando lo oyeron, algunos de los que estaban cerca dijeron:  
+35 Cuando lo oyeron, algunos de los que estaban cerca dijeron: ―Escuchen, está llamando a Elías.  
 36 And someone ran and filled a sponge with sour wine, put it on a reed and gave it to him to drink, saying, “Wait, let us see whether Elijah will come to take him down.”  
-36 Un hombre corrió, empapó una esponja en vinagre, la puso en una caña y se la ofreció a Jesús para que bebiera.  
+36 Un hombre corrió, empapó una esponja en vinagre, la puso en una caña y se la ofreció a Jesús para que bebiera. ―Déjenlo, a ver si viene Elías a bajarlo —dijo.  
 37 And Jesus uttered a loud cry and breathed his last.  
 37 Entonces Jesús, lanzando un fuerte grito, expiró.  
 38 And the curtain of the temple was torn in two, from top to bottom.  
 38 La cortina del santuario del templo se rasgó en dos, de arriba abajo.   
 39 And when the centurion, who stood facing him, saw that in this way he[h] breathed his last, he said, “Truly this man was the Son[i] of God!”  
-39 Y el centurión, que estaba frente a Jesús, al oír el grito y[f] ver cómo murió, dijo:  
+39 Y el centurión, que estaba frente a Jesús, al oír el grito y[f] ver cómo murió, dijo: ―¡Verdaderamente este hombre era el Hijo[g] de Dios!  
 40 There were also women looking on from a distance, among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome.  
 40 Algunas mujeres miraban desde lejos. Entre ellas estaban María Magdalena, María la madre de Jacobo el menor y de José, y Salomé.   
 41 When he was in Galilee, they followed him and ministered to him, and there were also many other women who came up with him to Jerusalem.  
