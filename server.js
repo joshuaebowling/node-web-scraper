@@ -11,14 +11,33 @@ var makeUrls = function(book, chapter, version) {
   return `https://www.biblegateway.com/passage/?search=${book}+${chapter}&version=${version}`;    
 };
 var books = [
+  // {
+  //   name: 'John',
+  //   length: 21
+  // }
   {
     name: 'Mark',
     length: 16
   }
+  // {
+  //   name: 'Matthew',
+  //   length: 28
+  // }
 ];
+
+var _currentBook = null;
+
 var versions = ['ESV','NVI'];
+var output = [];
+var toWrite = [];
 var chapters = _.map(books, function(b, ib) {
+  _currentBook = b;
   var urls = [];
+  toWrite.push(`## The Book of ${b.name}`);
+  console.log('', b.length);
+  for(var i = 1; i <= b.length; i++) {
+    toWrite.push(`[${i}](#${i})`);
+  };
   _.each(_.range(1, b.length + 1), function(verse, versei) {
     var chapter = [];
     _.each(versions, function(v, i){
@@ -28,8 +47,6 @@ var chapters = _.map(books, function(b, ib) {
   });
   return urls;
 });
-var output = [];
-var toWrite = [];
 async.eachSeries(chapters, (chap, cbFinal) => {
   async.eachSeries(chap,
     function(chapter, cbChapter) {
@@ -41,12 +58,11 @@ async.eachSeries(chapters, (chap, cbFinal) => {
             var $, _book, _chapter, _url;
             $ = cheerio.load(html);
             _url = url.parse(version, true);
-            _book = _url.query['search'].split(' ')[0];
             _chapter = _url.query['search'].split(' ')[1];
             
             if(!wrapper[version]) wrapper[version] = [];
-            if(_book) wrapper[version].push(`# ${_book}`);
-            if(_chapter) wrapper[version].push(`## ${_chapter}`);
+            wrapper[version].push(`# ${_currentBook.name}`);
+            if(_chapter && _.last(wrapper[version]) !== `# ${_chapter}`) wrapper[version].push(`## <a name="${_chapter}"> ${_chapter}</a>`);
             $('.text').each(function(i,v) {
               var $el, action, actionBlock, actionTrue, isAppend, isVerse, text;
 
@@ -99,7 +115,7 @@ async.eachSeries(chapters, (chap, cbFinal) => {
   )
 },
 (err) => {
-      fs.writeFile('book.md', toWrite.join('  \n'), function(err){
+      fs.writeFile(`${_currentBook.name}.md`, toWrite.join('  \n'), function(err){
         console.log('File successfully written! - Check your project directory for the output.json file');
       })
 });

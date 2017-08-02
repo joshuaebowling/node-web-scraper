@@ -1,7 +1,24 @@
+## The Book of Mark  
+[1](#1)  
+[2](#2)  
+[3](#3)  
+[4](#4)  
+[5](#5)  
+[6](#6)  
+[7](#7)  
+[8](#8)  
+[9](#9)  
+[10](#10)  
+[11](#11)  
+[12](#12)  
+[13](#13)  
+[14](#14)  
+[15](#15)  
+[16](#16)  
 # Mark  
 # Mark  
-## 1  
-## 1  
+## <a name="1"> 1</a>  
+## <a name="1"> 1</a>  
 1 The beginning of the gospel of Jesus Christ, the Son of God.[a]  
 1 Comienzo del evangelio de Jesucristo, el Hijo de Dios.[a]  
 2 As it is written in Isaiah the prophet,[b]  
@@ -94,8 +111,8 @@
 45 Pero él salió y comenzó a hablar sin reserva, divulgando lo sucedido. Como resultado, Jesús ya no podía entrar en ningún pueblo abiertamente, sino que se quedaba afuera, en lugares solitarios. Aun así, gente de todas partes seguía acudiendo a él.  
 # Mark  
 # Mark  
-## 2  
-## 2  
+## <a name="2"> 2</a>  
+## <a name="2"> 2</a>  
 2 And when he returned to Capernaum after some days, it was reported that he was at home.  
 2 Unos días después, cuando Jesús entró de nuevo en Capernaúm, corrió la voz de que estaba en casa.   
 2 And many were gathered together, so that there was no more room, not even at the door. And he was preaching the word to them.  
@@ -154,8 +171,8 @@
 28 Así que el Hijo del hombre es Señor incluso del sábado».  
 # Mark  
 # Mark  
-## 3  
-## 3  
+## <a name="3"> 3</a>  
+## <a name="3"> 3</a>  
 3 Again he entered the synagogue, and a man was there with a withered hand.  
 3 En otra ocasión entró en la sinagoga, y había allí un hombre que tenía la mano paralizada.   
 2 And they watched Jesus,[a] to see whether he would heal him on the Sabbath, so that they might accuse him.  
@@ -228,8 +245,8 @@
 35 Cualquiera que hace la voluntad de Dios es mi hermano, mi hermana y mi madre.  
 # Mark  
 # Mark  
-## 4  
-## 4  
+## <a name="4"> 4</a>  
+## <a name="4"> 4</a>  
 4 Again he began to teach beside the sea. And a very large crowd gathered about him, so that he got into a boat and sat in it on the sea, and the whole crowd was beside the sea on the land.  
 4 De nuevo comenzó Jesús a enseñar a la orilla del lago. La multitud que se reunió para verlo era tan grande que él subió y se sentó en una barca que estaba en el lago, mientras toda la gente se quedaba en la playa.   
 2 And he was teaching them many things in parables, and in his teaching he said to them:  
@@ -314,8 +331,8 @@
 41 Ellos estaban espantados y se decían unos a otros: ―¿Quién es este, que hasta el viento y el mar le obedecen?  
 # Mark  
 # Mark  
-## 5  
-## 5  
+## <a name="5"> 5</a>  
+## <a name="5"> 5</a>  
 5 They came to the other side of the sea, to the country of the Gerasenes.[a]  
 5 Cruzaron el lago hasta llegar a la región de los gerasenos.[a]   
 2 And when Jesus[b] had stepped out of the boat, immediately there met him out of the tombs a man with an unclean spirit.  
@@ -404,8 +421,8 @@
 43 Él dio órdenes estrictas de que nadie se enterara de lo ocurrido, y les mandó que le dieran de comer a la niña.  
 # Mark  
 # Mark  
-## 6  
-## 6  
+## <a name="6"> 6</a>  
+## <a name="6"> 6</a>  
 6 He went away from there and came to his hometown, and his disciples followed him.  
 6 Salió Jesús de allí y fue a su tierra, en compañía de sus discípulos.   
 2 And on the Sabbath he began to teach in the synagogue, and many who heard him were astonished, saying, “Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands?  
@@ -520,8 +537,8 @@
 56 Y dondequiera que iba, en pueblos, ciudades o caseríos, colocaban a los enfermos en las plazas. Le suplicaban que les permitiera tocar siquiera el borde de su manto, y quienes lo tocaban quedaban sanos.  
 # Mark  
 # Mark  
-## 7  
-## 7  
+## <a name="7"> 7</a>  
+## <a name="7"> 7</a>  
 7 Now when the Pharisees gathered to him, with some of the scribes who had come from Jerusalem,  
 7 Los fariseos y algunos de los maestros de la ley que habían llegado de Jerusalén se reunieron alrededor de Jesús,   
 2 they saw that some of his disciples ate with hands that were defiled, that is, unwashed.  
@@ -596,8 +613,8 @@
 37 La gente estaba sumamente asombrada, y decía: «Todo lo hace bien. Hasta hace oír a los sordos y hablar a los mudos».  
 # Mark  
 # Mark  
-## 8  
-## 8  
+## <a name="8"> 8</a>  
+## <a name="8"> 8</a>  
 8 In those days, when again a great crowd had gathered, and they had nothing to eat, he called his disciples to him and said to them,  
 8 En aquellos días se reunió de nuevo mucha gente. Como no tenían nada que comer, Jesús llamó a sus discípulos y les dijo:  
 2 “I have compassion on the crowd, because they have been with me now three days and have nothing to eat.  
@@ -676,8 +693,8 @@
 38 Si alguien se avergüenza de mí y de mis palabras en medio de esta generación adúltera y pecadora, también el Hijo del hombre se avergonzará de él cuando venga en la gloria de su Padre con los santos ángeles.  
 # Mark  
 # Mark  
-## 9  
-## 9  
+## <a name="9"> 9</a>  
+## <a name="9"> 9</a>  
 9 And he said to them, “Truly, I say to you, there are some standing here who will not taste death until they see the kingdom of God after it has come with power.”  
 9 Y añadió: ―Les aseguro que algunos de los aquí presentes no sufrirán la muerte sin antes haber visto el reino de Dios llegar con poder.  
 2 And after six days Jesus took with him Peter and James and John, and led them up a high mountain by themselves. And he was transfigured before them,  
@@ -776,8 +793,8 @@
   
 # Mark  
 # Mark  
-## 10  
-## 10  
+## <a name="10"> 10</a>  
+## <a name="10"> 10</a>  
 10 And he left there and went to the region of Judea and beyond the Jordan, and crowds gathered to him again. And again, as was his custom, he taught them.  
 10 Jesús partió de aquel lugar y se fue a la región de Judea y al otro lado del Jordán. Otra vez se le reunieron las multitudes y, como era su costumbre, les enseñaba.  
 2 And Pharisees came up and in order to test him asked, “Is it lawful for a man to divorce his wife?”  
@@ -884,8 +901,8 @@
 52 ―Puedes irte —le dijo Jesús—; tu fe te ha sanado.  
 # Mark  
 # Mark  
-## 11  
-## 11  
+## <a name="11"> 11</a>  
+## <a name="11"> 11</a>  
 11 Now when they drew near to Jerusalem, to Bethphage and Bethany, at the Mount of Olives, Jesus[a] sent two of his disciples  
 11 Cuando se acercaban a Jerusalén y llegaron a Betfagué y a Betania, junto al monte de los Olivos, Jesús envió a dos de sus discípulos   
 2 and said to them, “Go into the village in front of you, and immediately as you enter it you will find a colt tied, on which no one has ever sat. Untie it and bring it.  
@@ -952,8 +969,8 @@
 33 Así que le respondieron a Jesús: ―No lo sabemos. ―Pues yo tampoco les voy a decir con qué autoridad hago esto.  
 # Mark  
 # Mark  
-## 12  
-## 12  
+## <a name="12"> 12</a>  
+## <a name="12"> 12</a>  
 12 And he began to speak to them in parables. “A man planted a vineyard and put a fence around it and dug a pit for the winepress and built a tower, and leased it to tenants and went into another country.  
 12 Entonces comenzó Jesús a hablarles en parábolas: «Un hombre plantó un viñedo. Lo cercó, cavó un lagar y construyó una torre de vigilancia. Luego arrendó el viñedo a unos labradores y se fue de viaje.   
 2 When the season came, he sent a servant[a] to the tenants to get from them some of the fruit of the vineyard.  
@@ -1044,8 +1061,8 @@
 44 Estos dieron de lo que les sobraba; pero ella, de su pobreza, echó todo lo que tenía, todo su sustento».  
 # Mark  
 # Mark  
-## 13  
-## 13  
+## <a name="13"> 13</a>  
+## <a name="13"> 13</a>  
 13 And as he came out of the temple, one of his disciples said to him, “Look, Teacher, what wonderful stones and what wonderful buildings!”  
 13 Cuando salía Jesús del templo, le dijo uno de sus discípulos: ―¡Mira, Maestro! ¡Qué piedras! ¡Qué edificios!  
 2 And Jesus said to him, “Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down.”  
@@ -1122,8 +1139,8 @@
 37 Lo que les digo a ustedes, se lo digo a todos: ¡Manténganse despiertos!»  
 # Mark  
 # Mark  
-## 14  
-## 14  
+## <a name="14"> 14</a>  
+## <a name="14"> 14</a>  
 14 It was now two days before the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes were seeking how to arrest him by stealth and kill him,  
 14 Faltaban solo dos días para la Pascua y para la fiesta de los Panes sin levadura. Los jefes de los sacerdotes y los maestros de la ley buscaban con artimañas cómo arrestar a Jesús para matarlo.   
 2 for they said, “Not during the feast, lest there be an uproar from the people.”  
@@ -1270,8 +1287,8 @@
 72 Al instante un gallo cantó por segunda vez.[i] Pedro se acordó de lo que Jesús le había dicho: «Antes de que el gallo cante por segunda vez,[j] me negarás tres veces». Y se echó a llorar.  
 # Mark  
 # Mark  
-## 15  
-## 15  
+## <a name="15"> 15</a>  
+## <a name="15"> 15</a>  
 15 And as soon as it was morning, the chief priests held a consultation with the elders and scribes and the whole council. And they bound Jesus and led him away and delivered him over to Pilate.  
 15 Tan pronto como amaneció, los jefes de los sacerdotes, con los ancianos, los maestros de la ley y el Consejo en pleno, llegaron a una decisión. Ataron a Jesús, se lo llevaron y se lo entregaron a Pilato.  
 2 And Pilate asked him, “Are you the King of the Jews?” And he answered him, “You have said so.”  
@@ -1366,8 +1383,8 @@
 47 María Magdalena y María la madre de José vieron dónde lo pusieron.  
 # Mark  
 # Mark  
-## 16  
-## 16  
+## <a name="16"> 16</a>  
+## <a name="16"> 16</a>  
 16 When the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, so that they might go and anoint him.  
 16 Cuando pasó el sábado, María Magdalena, María la madre de Jacobo, y Salomé compraron especias aromáticas para ir a ungir el cuerpo de Jesús.   
 2 And very early on the first day of the week, when the sun had risen, they went to the tomb.  
