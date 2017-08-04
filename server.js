@@ -1,23 +1,30 @@
-var express = require('express');
-var fs      = require('fs');
-var request = require('request');
-var cheerio = require('cheerio');
-var app     = express();
-var _ = require('lodash');
-var async = require('async');
-var url = require('url');
+const express = require('express'),
+fs      = require('fs'),
+request = require('request'),
+cheerio = require('cheerio'),
+app     = express(),
+_ = require('lodash'),
+async = require('async'),
+url = require('url');
 
-var makeUrls = function(book, chapter, version) {
+
+var _currentBook,
+books, chapters, makeUrls, output, toWrite, version;
+makeUrls = function _makeUrls(book, chapter, version) {
   return `https://www.biblegateway.com/passage/?search=${book}+${chapter}&version=${version}`;    
 };
-var books = [
+books = [
   // {
   //   name: 'John',
   //   length: 21
   // }
+  // {
+  //   name: 'Mark',
+  //   length: 16
+  // }
   {
-    name: 'Mark',
-    length: 16
+    name: 'Ecclesiastes',
+    length: 12
   }
   // {
   //   name: 'Matthew',
@@ -25,16 +32,15 @@ var books = [
   // }
 ];
 
-var _currentBook = null;
+_currentBook = null;
 
-var versions = ['ESV','NVI'];
-var output = [];
-var toWrite = [];
-var chapters = _.map(books, function(b, ib) {
+versions = ['ESV','NVI'];
+output = [];
+toWrite = [];
+chapters = _.map(books, function(b, ib) {
   _currentBook = b;
   var urls = [];
   toWrite.push(`## The Book of ${b.name}`);
-  console.log('', b.length);
   for(var i = 1; i <= b.length; i++) {
     toWrite.push(`[${i}](#${i})`);
   };
@@ -49,11 +55,11 @@ var chapters = _.map(books, function(b, ib) {
 });
 async.eachSeries(chapters, (chap, cbFinal) => {
   async.eachSeries(chap,
-    function(chapter, cbChapter) {
+    (chapter, cbChapter) => {
       var wrapper = {};
       var book = '';
-      async.eachSeries(chapter, function(version, cbVersion) {
-        request(version, function(error, response, html){
+      async.eachSeries(chapter, (version, cbVersion) => {
+        request(version, (error, response, html) => {
           if(!error){
             var $, _book, _chapter, _url;
             $ = cheerio.load(html);
@@ -88,14 +94,14 @@ async.eachSeries(chapters, (chap, cbFinal) => {
           }
         })
       },
-      function(err) {
+      (err) => {
         output.push(wrapper);
 
         cbChapter(); 
       }
       )
     },
-    function(err) {
+    (err) => {
   //      output = _.omit(output[0], 'chapter');
       _.each(output, function(op, opi) {
          console.log(op);
@@ -119,22 +125,5 @@ async.eachSeries(chapters, (chap, cbFinal) => {
         console.log('File successfully written! - Check your project directory for the output.json file');
       })
 });
-/*
-app.get('/scrape', function(req, res){
-  // Let's scrape Anchorman 2
 
-  async.eachSeries(versions, function(version, callbackV) {
-  })
-  }, function(err, result) {
-      // if result is true then every file exists
-  });
-
-  var url = 'https://www.biblegateway.com/passage/?search=Mark+1&version=NVI';
-  res.send('Check your console!')
-
-})
-
-app.listen('8081')
-console.log('Magic happens on port 8081');
-*/
 exports = module.exports = app;

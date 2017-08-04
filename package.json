@@ -14,5 +14,8 @@
     "express": "latest",
     "lodash": "^4.17.4",
     "request": "latest"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3"
   }
 }
