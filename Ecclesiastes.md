@@ -114,7 +114,7 @@
 3 For everything there is a season, and a time for every matter under heaven:  
 3 Todo tiene su momento oportuno; hay un tiempo para todo lo que se hace bajo el cielo:  
 2 a time to be born, and a time to die;  
-2 un tiempo para nacer, y un tiempo para morir; 
+2 un tiempo para nacer, y un tiempo para morir;
 3 a time to kill, and a time to heal;  
 3 un tiempo para matar, y un tiempo para sanar; 
 4 a time to weep, and a time to laugh;  
