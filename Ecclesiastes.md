@@ -115,20 +115,35 @@
 3 Todo tiene su momento oportuno; hay un tiempo para todo lo que se hace bajo el cielo:  
 2 a time to be born, and a time to die;  
 2 un tiempo para nacer, y un tiempo para morir;
+
 3 a time to kill, and a time to heal;  
+
 3 un tiempo para matar, y un tiempo para sanar; 
+
 4 a time to weep, and a time to laugh;  
+
 4 un tiempo para llorar, y un tiempo para reír; 
+
 5 a time to cast away stones, and a time to gather stones together;  
+
 5 un tiempo para esparcir piedras, y un tiempo para recogerlas;
+
 6 a time to seek, and a time to lose;  
+
 6 un tiempo para intentar, y un tiempo para desistir;
+
 7 a time to tear, and a time to sew;  
+
 7 un tiempo para rasgar, y un tiempo para coser;
+
 8 a time to love, and a time to hate;  
+
 8 un tiempo para amar,  y un tiempo para odiar;
+
 9 What gain has the worker from his toil?  
+
 9 ¿Qué provecho saca quien trabaja de tanto afanarse?   
+
 10 I have seen the business that God has given to the children of man to be busy with.  
 10 He visto la tarea que Dios ha impuesto al género humano para abrumarlo con ella.   
 11 He has made everything beautiful in its time. Also, he has put eternity into man's heart, yet so that he cannot find out what God has done from the beginning to the end.  
